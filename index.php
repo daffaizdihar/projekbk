@@ -32,7 +32,7 @@
               <a class="nav-link active" aria-current="page" href="#" target="_blank">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../login" target="_blank">Register</a>
+              <a class="nav-link" href="login.html" target="_blank">Register</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://github.com/daffaizdihar" target="_blank">Products</a>
